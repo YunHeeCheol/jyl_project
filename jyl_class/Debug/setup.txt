@@ -1,0 +1,7 @@
+AutoStart : 0
+OnlyTop : 0
+TransParency : 100
+HeadTeacherIP : 127.0.0.1
+Grad : 3
+Class : 1
+Sound : 0

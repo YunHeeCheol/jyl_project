@@ -1,0 +1,7 @@
+Region : 
+City : 
+School : 
+DataPeriod : 5
+Transparency : 100
+AutoStart : 0
+OnlyTop : 0
