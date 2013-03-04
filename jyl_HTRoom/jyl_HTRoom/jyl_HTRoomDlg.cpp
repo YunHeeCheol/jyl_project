@@ -378,6 +378,7 @@ void Cjyl_HTRoomDlg::Open_setupDlg(void)
 
 void Cjyl_HTRoomDlg::MaindlgInit(void)
 {
+	//wntjr cjfldlqslek.
 	CRgn rgn;
 	CRect rc;
 	GetClientRect(rc);
