@@ -1,9 +1,9 @@
-﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (bc042e34).
+﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (c403671a).
 //
-// c:\documents and settings\user\my documents\호\프로젝트\호\프로그램\신버젼\use db\jyl_htroom 3.04 ver\jyl_htroom\debug\msado15.tlh
+// d:\jyl_project\jyl_htroom\jyl_htroom\debug\msado15.tlh
 //
 // C++ source equivalent of Win32 type library C:\Program Files\Common Files\System\ado\msado15.dll
-// compiler-generated file created 02/27/13 at 12:11:55 - DO NOT EDIT!
+// compiler-generated file created 03/04/13 at 16:45:41 - DO NOT EDIT!
 
 #pragma once
 #pragma pack(push, 8)
@@ -3133,7 +3133,7 @@ _Record : _ADO
 // Wrapper method implementations
 //
 
-#include "c:\documents and settings\user\my documents\호\프로젝트\호\프로그램\신버젼\use db\jyl_htroom 3.04 ver\jyl_htroom\debug\msado15.tli"
+#include "d:\jyl_project\jyl_htroom\jyl_htroom\debug\msado15.tli"
 
 } // namespace ADODB
 

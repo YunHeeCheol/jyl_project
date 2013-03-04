@@ -197,10 +197,10 @@ void CDialog_Setup::SetResource(void)
 	GetDlgItem(IDC_CHECK_AUTOSTART)->MoveWindow(35,195,150,20,FALSE);
 	GetDlgItem(IDC_CHECK_ONLYTOP)  ->MoveWindow(260,195,80,20,FALSE);
 
-	GetDlgItem(IDC_STATICADRESS)->MoveWindow(25,7,100,20,FALSE);
-	GetDlgItem(IDC_STATICDATA)  ->MoveWindow(25,84,100,20,FALSE);
-	GetDlgItem(IDC_STATICTRANS) ->MoveWindow(148,84,80,20,FALSE);
-	GetDlgItem(IDC_STATICOPTION)->MoveWindow(25,165,50,20,FALSE);
+	GetDlgItem(IDC_STATICADRESS)->MoveWindow(23,7,100,20,FALSE);
+	GetDlgItem(IDC_STATICDATA)  ->MoveWindow(23,84,120,20,FALSE);
+	GetDlgItem(IDC_STATICTRANS) ->MoveWindow(152,84,80,20,FALSE);
+	GetDlgItem(IDC_STATICOPTION)->MoveWindow(23,165,50,20,FALSE);
 
 }
 
