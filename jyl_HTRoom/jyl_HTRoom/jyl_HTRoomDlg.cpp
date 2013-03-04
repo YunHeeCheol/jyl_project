@@ -378,6 +378,7 @@ void Cjyl_HTRoomDlg::Open_setupDlg(void)
 
 void Cjyl_HTRoomDlg::MaindlgInit(void)
 {
+	//프레임임을 둥근 사각형으로
 	CRgn rgn;
 	CRect rc;
 	GetClientRect(rc);
